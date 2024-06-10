@@ -1,0 +1,6 @@
+env: "local"
+token:
+  ttl: 1h
+grpc:
+  port: 27000
+  timeout: 10h
